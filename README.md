@@ -80,3 +80,7 @@ Implement:
       "layer": "orangegis_test:regions"
     }
   }
+
+### 5) Output
+
+![Screenshot 2025-10-11 at 10.58.47.png](public/Screenshot%202025-10-11%20at%2010.58.47.png)
