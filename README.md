@@ -4,7 +4,7 @@ Spin up a tiny GIS stack, publish the provided dataset in GeoServer (backed by P
 
 ---
 
-## ✅ What’s provided (do not modify)
+## ✅ What’s provided
 
 Use these files for seeding PostGIS and styling the GeoServer layer.
 
